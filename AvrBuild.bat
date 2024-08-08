@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\matou\Documents\AVR Projects\Segmentovka_Tisic\labels.tmp" -fI -W+ie -o "C:\Users\matou\Documents\AVR Projects\Segmentovka_Tisic\Segmentovka_Tisic.hex" -d "C:\Users\matou\Documents\AVR Projects\Segmentovka_Tisic\Segmentovka_Tisic.obj" -e "C:\Users\matou\Documents\AVR Projects\Segmentovka_Tisic\Segmentovka_Tisic.eep" -m "C:\Users\matou\Documents\AVR Projects\Segmentovka_Tisic\Segmentovka_Tisic.map" "C:\Users\matou\Documents\AVR Projects\Segmentovka_Tisic\Segmentovka_Tisic.asm"
